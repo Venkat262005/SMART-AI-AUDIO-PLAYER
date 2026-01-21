@@ -46,8 +46,4 @@ streamlit run app.py
 - `main.py`: Backend logic for Weather API, Gemini AI, and YouTube Search.
 - `requirements.txt`: Python dependencies.
 
-### 🧪 Testing Files (Optional)
-The following files were created for debugging purposes and **can be safely deleted** if you don't need them:
-- `test_backend.py`: Verifies API connections without running the UI.
-- `test_langchain.py`: Tests specific AI model connectivity.
-- `debug_apis.py`: Low-level API connection test.
+
